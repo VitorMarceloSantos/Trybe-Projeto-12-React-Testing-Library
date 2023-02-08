@@ -1,15 +1,28 @@
-# Trybe-Projeto-12-React-Testing-Library
-React Library Testeng
-Habilidades</strong></summary><br />
+<h1 align="center">Projeto 12 - React Testing Library</h1>
 
-  Neste projeto, verificamos se você é capaz de:
+<div>
+  Para a realização do projeto, foram utilizadas as seguintes tecnologias: React Library Testing.
+</div>
 
-  * Utilizar os seletores (queries) da React-Testing-Library em testes automatizados;
+##
 
-  * Simular eventos com a React-Testing-Library em testes automatizados;
+<div>
+  <h3>Link do GitHub Page:</h3> 
+</div>
 
-  * Testar fluxos lógicos assíncronos com a React-Testing-Library;
+##
 
-  * Escrever testes que permitam a refatoração da estrutura dos componentes da aplicação sem necessidade de serem alterados;
+<div>
+  <h3>Características do Projeto:</h3>
+  * Utilizar os seletores (queries) da React-Testing-Library em testes automatizados;</br>
+  * Simular eventos com a React-Testing-Library em testes automatizados;</br>
+  * Testar fluxos lógicos assíncronos com a React-Testing-Library;</br>
+  * Escrever testes que permitam a refatoração da estrutura dos componentes da aplicação sem necessidade de serem alterados;</br>
+  * Testar inputs.</br>
+</div>
 
-  * Testar inputs.
+##
+
+<div>
+  <h3>Nota Final: 100%</h3>
+</div>
