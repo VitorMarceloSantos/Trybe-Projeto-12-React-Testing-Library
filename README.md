@@ -1,4 +1,4 @@
-<h1 align="center">Projeto 12 - React Testing Library</h1>
+<h1 align="center">Projeto 10 - React Testing Library</h1>
 
 <div>
   Para a realização do projeto, foram utilizadas as seguintes tecnologias: React Library Testing.
